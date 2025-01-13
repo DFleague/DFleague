@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DFleague
+- 👋 Hi, I’m @Janathan-Tip
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on projects
